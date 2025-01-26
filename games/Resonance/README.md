@@ -1,6 +1,6 @@
 # Game Name
 
-**Team Members:** keventhen4, Tempura, Magg166
+**Team Members:** keventhen4, Tempura, Magg166, Pencil
 
 **How would you pitch your game in one line?**
 > A simple game about trust and rhythm... and cats.
