@@ -15,4 +15,4 @@
 > Players will also explore while trying to perfect the masterpiece their interactions make, allowing for creativity. Additionally, the combat system will provide suspense. Do you trust them, or do you not? Will they trust you? Or perhaps, do you have some strategy?
 
 ---
-*Remember: Focus on gameplay mechanics and player experience. Save the details about story, art style, sound design, UI flowcharts, marketing plans, or achievements for later.*
+*Well well well, what do we have here?*
